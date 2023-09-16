@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "courseImg": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a4/079d5e7c7b45ac9107f22bfcfeab91/Specialization-logo.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+        "courseTitle": "Deep Learning",
+        "courseDesc": "Skills you'll gain: Deep Learning, Machine Learning, Artificial Neural Networks, Python Programming, Statistical Programming, Machine Learning Algorithms, Linear Algebra, Applied Machine Learning, Statistical Machine Learning, Dimensionality Reduction, Feature Engineering, Probability & Statistics, Business Psychology, Entrepreneurship, Machine Learning Software, Computer Vision, Marketing, General Statistics, Natural Language Processing, Computer Programming, Leadership and Management, Project Management, Regression, Sales, Strategy, Strategy and Operations, Tensorflow, Differential Equations, Mathematics, Applied Mathematics, Decision Making, Supply Chain Systems, Supply Chain and Logistics, Advertising, Communication, Estimation, Forecasting, Mathematical Theory & Analysis, Statistical Visualization, Calculus, Algorithms, Theoretical Computer Science, Bayesian Statistics, Probability Distribution, Statistical Tests, Big Data, Computer Architecture, Computer Networking, Data Management, Human Computer Interaction, Network Architecture, User Experience, Algebra, Computational Logic, Computer Graphic Techniques, Computer Graphics, Data Structures, Data Visualization, Hardware Design, Interactive Design, Markov Model, Network Model",
+        "credit": 2,
+        "coursePrice": 45
+    },
+    {
+        "id": 2,
+        "courseImg": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/23/22bc54f77f45a2b057f4ff518d272f/iStock-1169539468.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+        "courseTitle": "IBM Data Science",
+        "courseDesc": "Skills you'll gain: Python Programming, Data Science, Data Structures, Regression, Machine Learning, Statistical Programming, Data Visualization, SQL, Databases, Programming Principles, Applied Machine Learning, Statistical Visualization, Computer Programming, Data Analysis, Statistical Tests, Data Management, R Programming, Data Mining, Extract, Transform, Load, Plot (Graphics), Interactive Data Visualization, Statistical Machine Learning, Algorithms, Artificial Neural Networks, Deep Learning, Geovisualization, Machine Learning Algorithms, Probability & Statistics, Reinforcement Learning, Theoretical Computer Science, Algebra, Basic Descriptive Statistics, Big Data, Business Analysis, Cloud Computing, Cloud Engineering, Cloud Platforms, Cloud Storage, Computational Logic, Computer Programming Tools, Correlation And Dependence, Data Analysis Software, Data Visualization Software, Database Administration, Database Application, Devops Tools, Econometrics, Entrepreneurship, Estimation, Exploratory Data Analysis, Feature Engineering, General Statistics, IBM Cloud, Machine Learning Software, Marketing, Mathematical Theory & Analysis, Mathematics, SPSS, Software Visualization, Spreadsheet Software, Statistical Analysis, Storytelling, Supply Chain Systems, Supply Chain and Logistics, Writing",
+        "credit": 3,
+        "coursePrice": 35
+    },
+    {
+        "id": 3,
+        "courseImg": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/bd/69fc60bd454b1485955c680232bd95/082421_Karrim0066-1.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+        "courseTitle": "Google Data Analytics",
+        "courseDesc": "Skills you'll gain: Data Analysis, SQL, Spreadsheet Software, Data Visualization, R Programming, Statistical Visualization, Business Analysis, Business Communication, Communication, Data Management, Data Structures, Tableau Software, Big Data, Cloud Computing, General Statistics, Leadership and Management, Plot (Graphics), Small Data, Algorithms, Application Development, Budget Management, Computational Logic, Computer Architecture, Computer Networking, Computer Programming, Computer Programming Tools, Conflict Management, Cryptography, Data Analysis Software, Data Mining, Data Model, Data Science, Data Visualization Software, Data Warehousing, Database Administration, Database Application, Database Design, Databases, Decision Making, Design and Product, Distributed Computing Architecture, Entrepreneurship, Exploratory Data Analysis, Extract, Transform, Load, Feature Engineering, Finance, Full-Stack Web Development, Interactive Data Visualization, Machine Learning, Mathematical Theory & Analysis, Mathematics, Microsoft Excel, Network Security, Other Programming Languages, Probability & Statistics, Problem Solving, Product Design, Professional Development, Programming Principles, Project Management, Research and Design, Security Engineering, Security Strategy, Software Engineering, Software Security, Statistical Analysis, Statistical Programming, Storytelling, Theoretical Computer Science, Visual Design, Visualization (Computer Graphics), Web Development",
+        "credit": 7,
+        "coursePrice": 50
+    },
+    {
+        "id": 4,
+        "courseImg": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/18/2aa16c328a457cb910aa933bf2cd87/Professional-Certificate-Cloud-App.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+        "courseTitle": "IBM Full Stack Software Developer",
+        "courseDesc": "Skills you'll gain: Cloud Computing, Python Programming, Javascript, Web Development, Other Web Frameworks, IBM Cloud, Computer Programming, Django (Web Framework), Data Structures, Front-End Web Development, Programming Principles, Cloud Applications, Computer Programming Tools, Databases, React (web framework), Kubernetes, Back-End Web Development, Full-Stack Web Development, HTML and CSS, Devops Tools, Cloud Engineering, Cloud Infrastructure, Cloud Foundry, Cloud Management, Cloud Platforms, Cloud Storage, DevOps, Docker (Software), SQL, Theoretical Computer Science, Distributed Computing Architecture, Network Security, Software As A Service, Web Design, Continuous Delivery, Design and Product, NoSQL, User Experience, Application Development, BlockChain, Cloud-Based Integration, Computational Logic, Computer Architecture, Computer Graphics, Computer Science, Continuous Integration, Data Analysis, Data Management, Database Administration, Database Application, Database Design, Finance, Human Computer Interaction, Interactive Design, Mathematical Theory & Analysis, Mathematics, Operating Systems, Security Engineering, Software Architecture, Software Engineering, Software Engineering Tools, Software Framework, Software Testing, Statistical Programming, System Programming, Systems Design, User Research, Web Development Tools",
+        "credit": 8,
+        "coursePrice": 110
+    },
+    {
+        "id": 5,
+        "courseImg": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera_assets/ddp/branding/bachelor-of-science-data-science-ai-iitguwahati/d162fb2a-536e-40a7-8e3e-ce849e964736.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+        "courseTitle": "Bachelor of Science in Data Science & AI",
+        "courseDesc": "Skills you'll gain: Machine Learning, Statistical Machine Learning, Machine Learning Algorithms, Probability & Statistics, Deep Learning, Python Programming, Statistical Programming, Regression, Artificial Neural Networks, Data Analysis, Applied Machine Learning, Correlation And Dependence, Statistical Analysis, Statistical Tests, General Statistics, Exploratory Data Analysis, Algorithms, Computer Vision, Reinforcement Learning, Theoretical Computer Science, Basic Descriptive Statistics, Data Mining, Feature Engineering, Natural Language Processing, Computer Programming, Data Management, Data Structures, Dimensionality Reduction, Econometrics",
+        "credit": 3,
+        "coursePrice": 55
+    },
+    {
+        "id": 6,
+        "courseImg": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/63/baf9bea98641aeb8fd36a7b1291791/DA-PC_Image.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+        "courseTitle": "IBM Data Analyst",
+        "courseDesc": "Skills you'll gain: Python Programming, Data Visualization, Data Analysis, Data Structures, Statistical Visualization, Plot (Graphics), Statistical Programming, Microsoft Excel, SQL, Databases, Business Analysis, Spreadsheet Software, Programming Principles, Regression, Computer Programming, Data Management, Applied Machine Learning, Statistical Tests, Correlation And Dependence, Exploratory Data Analysis, Data Analysis Software, Machine Learning, Geovisualization, ArcGIS, Big Data, Data Mining, Data Science, Data Warehousing, Extract, Transform, Load, General Statistics, HTML and CSS, Knitr, Mathematics, NoSQL, R Programming, SPSS, Algebra, Apache, Basic Descriptive Statistics, Business Intelligence, Cloud Computing, Cloud Engineering, Cloud Platforms, Cloud Storage, Computational Logic, Computer Programming Tools, Data Visualization Software, Database Administration, Database Application, Econometrics, IBM Cloud, Interactive Data Visualization, Leadership and Management, Machine Learning Algorithms, Mathematical Theory & Analysis, Operating Systems, Probability & Statistics, Professional Development, SAS (Software), Statistical Analysis, Statistical Machine Learning, System Programming, Theoretical Computer Science",
+        "credit": 4,
+        "coursePrice": 30
+    },
+    {
+        "id": 7,
+        "courseImg": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/bd/0202c87e244d30bdecd889bd2719ae/DataScienceFundamentalsPythonSQL.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&q=50&fit=crop",
+        "courseTitle": "Data Science Fundamentals with Python and SQL",
+        "courseDesc": "Skills you'll gain: Python Programming, General Statistics, Probability & Statistics, SQL, Data Structures, Databases, Data Analysis, Programming Principles, Statistical Programming, Business Analysis, Data Science, Statistical Analysis, Data Management, Probability Distribution, R Programming, Statistical Tests, Basic Descriptive Statistics, Correlation And Dependence, Data Visualization, Plot (Graphics), Regression, Statistical Visualization, Computer Programming, Extract, Transform, Load, Cloud Engineering, Cloud Platforms, Cloud Storage, Computational Logic, Computer Programming Tools, Data Analysis Software, Data Visualization Software, Database Administration, Database Application, Devops Tools, IBM Cloud, Machine Learning, Machine Learning Algorithms, Machine Learning Software, Mathematical Theory & Analysis, Mathematics, SPSS, Software Visualization, Theoretical Computer Science",
+        "credit": 1,
+        "coursePrice": 85
+    },
+    {
+        "id": 8,
+        "courseImg": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/1b/67a18a33de439c974816ebfd42e7b2/unnamed.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&q=50&fit=crop",
+        "courseTitle": "IBM Data Engineering",
+        "courseDesc": "Skills you'll gain: Data Management, Databases, Data Structures, Big Data, Data Architecture, Apache, SQL, Extract, Transform, Load, Database Administration, Python Programming, Database Theory, Data Model, Data Warehousing, Database Application, NoSQL, Data Engineering, Distributed Computing Architecture, Programming Principles, Operating Systems, Database Design, Statistical Programming, Computer Programming, Linux, Data Analysis, PostgreSQL, Computer Architecture, Applied Machine Learning, Correlation And Dependence, Feature Engineering, General Statistics, Graph Theory, Machine Learning, Machine Learning Algorithms, Machine Learning Software, Regression, Statistical Analysis, Statistical Machine Learning, Data Visualization, Data Visualization Software, Advertising, Communication, Computer Networking, Computer Programming Tools, Marketing, Network Model, Networking Hardware, Public Relations, System Programming, System Software, Software Engineering, Theoretical Computer Science, Cloud Applications, Cloud Computing, DevOps, Kubernetes, Leadership and Management, Network Architecture, Network Security, Other Programming Languages, Professional Development, Security Engineering, Algorithms, Cloud Engineering, Cloud Platforms, Cloud Storage, Computational Logic, Computational Thinking, Data Science, IBM Cloud, Mathematical Theory & Analysis, Mathematics, Microarchitecture, Project Management, Security Strategy, Software Architecture, Strategy and Operations",
+        "credit": 2,
+        "coursePrice": 60
+    },
+    {
+        "id": 9,
+        "courseImg": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/02/41460a29d744dfa39106941eae2e02/fb-specialization.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&q=50&fit=crop",
+        "courseTitle": "Meta Social Media Marketing",
+        "courseDesc": "Skills you'll gain: Marketing, Digital Marketing, Social Media, Communication, Advertising, Marketing Management, Media Strategy & Planning, Business Analysis, Sales, Marketing Design, Research and Design, Entrepreneurship, Brand Management, Market Research, Business Psychology, Marketing Psychology, Customer Analysis, Design and Product, Finance, Planning, Product Marketing, Budget Management, Strategy and Operations, Advertising Sales, Business Communication, Customer Support, Financial Management, Influencing, MarTech, Market Analysis, People Analysis, Performance Management, Persona Research, Spreadsheet Software, Statistical Tests, Storytelling, Writing, Leadership and Management, Strategy, Computer Networking, Data Analysis, Data Visualization, Database Administration, Databases, Experiment, Network Security, Probability & Statistics, Public Relations, Regulations and Compliance, Security Engineering, Security Strategy, Software Engineering, Software Security, Software Testing, Supply Chain and Logistics, Visual Design",
+        "credit": 5,
+        "coursePrice": 100
+    }
+]
